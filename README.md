@@ -1,5 +1,11 @@
 # Flowers-E-commerce-Website
 This is a fully responsive flower shop website built with HTML5, CSS3, and Font Awesome icons. The design highlights fresh flowers, products, customer reviews, and includes a contact form.
+<img width="1313" height="582" alt="image" src="https://github.com/user-attachments/assets/864987d8-99e6-4ddd-9417-2c5878fd8e14" />
+<img width="1336" height="473" alt="image" src="https://github.com/user-attachments/assets/5d065958-d486-498b-b6d9-11954977c04e" />
+<img width="1343" height="253" alt="image" src="https://github.com/user-attachments/assets/54ec5a7f-9f8e-457c-8353-f4e379bcde41" />
+<img width="1326" height="375" alt="image" src="https://github.com/user-attachments/assets/72219826-6128-453e-a911-8acd3ada477c" />
+<img width="1267" height="520" alt="image" src="https://github.com/user-attachments/assets/2ea3d116-56be-40d8-8bd3-9b8854139d4c" />
+<img width="1328" height="522" alt="image" src="https://github.com/user-attachments/assets/65fa62f7-d1fc-454e-b6b7-88adb356d246" />
 
 **Features:**
 
