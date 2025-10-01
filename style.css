@@ -247,8 +247,7 @@ header .fa-bars {
 .products .box-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 5rem;
-    padding: 2rem 0;
+    gap: 2rem;
 }
 
 .products .box-container.box {
@@ -588,4 +587,5 @@ header {
  .heading{
     font-size: 3rem;
  }
+
 
